@@ -3,7 +3,7 @@
 #define SIZE 3 // Количество комплексных чисел
 
 int main() {
-    double A[SIZE] = {1, 2, 2}; // Массив A (RE0, IM0, RE1, IM1, ... )
+    double A[SIZE] = {1, 2, 2}; // Массив A 
     double B[SIZE] = {2, -1,-2}; // Массив B
 
     double C[SIZE]; // Массив для суммы C
